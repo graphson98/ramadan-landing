@@ -198,14 +198,14 @@ export default function Page() {
         </div>
 
         {/* BEFORE */}
-        <div className="mt-5 text-center text-sm font-semibold">
+        <div className="mt-9 text-center text-sm font-semibold">
           Hasil jepretan foto produk kamu
         </div>
-        <div className="mt-3 flex justify-center">
+        <div className="mt-4 flex justify-center">
           <img
             src={ASSETS.before}
             alt="Before"
-            className="h-auto w-[260px] rounded border object-cover"
+            className="h-auto w-[280px] rounded border object-cover"
           />
         </div>
 
