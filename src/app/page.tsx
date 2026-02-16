@@ -7,7 +7,7 @@ export default function Page() {
   const BRAND = "Digital Graphs-On";
   const STORE_NAME = "Toko Graphs-On";
   const ADDRESS =
-    "Jl. Kihajardewantara No. 10, Keresek, Cibatu, Kab. Garut (sebrang UPT Puskesmas Cibatu)";
+    "Jl. Kihajardewantara No. 10, Keresek, Cibatu, Kab.. Garut (sebrang UPT Puskesmas Cibatu)";
   const NOTE_SMALL =
     "Contoh di atas hanya merupakan feed contoh, hasil akhir menyesuaikan produk kamu (warna, ukuran, style).";
 
