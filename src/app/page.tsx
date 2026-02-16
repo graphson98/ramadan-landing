@@ -28,7 +28,7 @@ export default function Page() {
     {
       id: "A",
       name: "Paket A",
-      price: 149000,
+      price: 120000,
       bestDeal: false,
       bullets: [
         "2 Produk → 8 Foto Model Realistis (menyesuaikan keinginan)",
@@ -39,7 +39,7 @@ export default function Page() {
     {
       id: "B",
       name: "Paket B",
-      price: 249000,
+      price: 200000,
       bestDeal: false,
       bullets: [
         "3 Produk → 12 Foto Model Realistis (menyesuaikan keinginan)",
